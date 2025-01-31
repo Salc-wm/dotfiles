@@ -42,6 +42,70 @@ Distro Vim → [**mini.nvim**](https://github.com/echasnovski/mini.nvim)
 	- JS  → File Code
 
 ## **Rio**
+Rio is a Brazilian terminal, simple and fast, in addition to an easy configuration,\
+made in rust, it brings great performance to accompany Vim/Nvim
+
+### Configs
+- Theme
+	- **[DarkMeRio](https://github.com/Salc-wm/rio-DarkMe-Terminal/blob/main/README.md)**
+- Configs:
+  	```toml
+  confirm-before-quit = false
+  hide-cursor-when-typing = true
+  # ignore-selection-foreground-color = false
+
+  theme = "darkMeRio-Slim"
+
+  # Padding-x
+  padding-x = 20
+  padding-y = [0, 10]
+
+  # Line height
+  line-height = 1.4
+
+  # Startup directory
+  working-dir = "/Users/rapha/Documents/__"
+
+  [cursor]
+      shape = 'Beam'
+      blinking = false
+      blinking-interval = 800
+
+  [editor]
+      program = "nvim"
+  # args = []
+
+  [window]
+      blur = false
+      opacity = 1.0
+      mode = "Fullscreen"
+      decorations = "Disabled"
+
+  [renderer]
+      level = 1
+      target-fps = 165
+      backend = "Vulkan"
+      performance = "high"
+      disable-unfocused-render = false
+  # filters = []
+
+  [fonts]
+      size = 18
+
+  [scroll]
+      multiplier = 3.0
+      divider = 1.0
+
+  [navigation]
+      mode = "BottomTab"
+      clickable = false
+      hide-if-single = true
+      use-current-path = false
+  # color-automation = []
+
+  [platform]
+  windows.shell.program = "pwsh"
+  windows.shell.args = ["-l", "-NoLogo"]```
 
 <p align="center"><h1 align="center">Discord</h1></p>
 
