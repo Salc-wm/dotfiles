@@ -26,7 +26,15 @@
 Distro Vim → [**mini.nvim**](https://github.com/echasnovski/mini.nvim)
 
 ## **Wez's**
-→ Config file Code
+"WezTerm is a powerful cross-platform terminal emulator and multiplexer"\
+A very useful and automatically modifiable terminal, along with its ease and capability of configuration thanks to its Lua API
+
+> [!IMPORTANT]  
+> The _wezterm_ folder needs to go in the *.config* folder.
+→ Config [**file Code**](https://github.com/Salc-wm/Dev-Toolkit-windows/blob/main/wezterm/wezterm.lua)
+
+- Rename the wezterm file to __.wezterm__ or add it to your own
+- located at _($HOME/.wezterm.lua)_ or _(Users\<USER NAME>)_
 
 ## **VS-Code**
 | …                         | Extensões            |
