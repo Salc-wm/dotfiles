@@ -5,18 +5,22 @@
 
 
 # Windows 11
+Essential programs to improve the appearance and usability of Windows
+
+That make it easier to modify the default appearance of\
+Windows 11/10 and can improve quality or performance
 
 - → Notepads app
-- → [Windhawk](https://windhawk.net/)
-- → [rectify11](https://rectify11.net/home)
-- → [Start11](https://www.stardock.com/products/start11/)
+- → [`Windhawk`](https://windhawk.net/)
+- → [`rectify11`](https://rectify11.net/home)
+- → [`Start11`](https://www.stardock.com/products/start11/)
 
 
 # Terminal
 
-- → Git
-- → [**Oh My Posh**](https://ohmyposh.dev/)
-- → Powershell Core
+- → [Git](https://git-scm.com/downloads)
+- → [**`Oh My Posh`**](https://ohmyposh.dev/)
+- → [**`Powershell Core`**](https://github.com/PowerShell/PowerShell)
 	- : Setup File
 	- : Config File
 
