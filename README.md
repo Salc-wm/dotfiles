@@ -64,7 +64,7 @@ made in rust, it brings great performance to accompany Vim/Nvim
   line-height = 1.4
 
   # Startup directory
-  working-dir = "/Users/rapha/Documents/__"
+  working-dir = "/Users/<USER>/<YOU HOME>"
 
   [cursor]
       shape = 'Beam'
