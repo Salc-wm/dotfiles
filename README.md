@@ -5,10 +5,10 @@
 
 
 # Windows 11
-Essential programs to improve the appearance and usability of Windows
+Essential programs to improve the _appearance_ and usability of Windows
 
 That make it easier to modify the default appearance of\
-Windows 11/10 and can improve quality or performance
+*Windows 11/10* and can improve quality or performance
 
 - → Notepads app
 - → [`Windhawk`](https://windhawk.net/)
