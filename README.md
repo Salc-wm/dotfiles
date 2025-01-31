@@ -34,7 +34,7 @@ A very useful and automatically modifiable terminal, along with its ease and cap
 → Config [**file Code**](https://github.com/Salc-wm/Dev-Toolkit-windows/blob/main/wezterm/wezterm.lua)
 
 - Rename the wezterm file to __.wezterm__ or add it to your own
-- located at _($HOME/.wezterm.lua)_ or _(Users\<USER NAME>)_
+- located at _($HOME/.wezterm.lua)_ or _(Users\ \<USER NAME>)_
 
 ## **VS-Code**
 | …                         | Extensões            |
