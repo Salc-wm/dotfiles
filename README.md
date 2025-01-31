@@ -46,9 +46,9 @@ Rio is a Brazilian terminal, simple and fast, in addition to an easy configurati
 made in rust, it brings great performance to accompany Vim/Nvim
 
 ### Configs
-- Theme
+- Theme -> [_Code Theme_](https://github.com/Salc-wm/Dev-Toolkit-windows/blob/main/rio/themes/darkMeRio-Slim.toml)
 	- **[DarkMeRio](https://github.com/Salc-wm/rio-DarkMe-Terminal/blob/main/README.md)**
-- Configs:
+- Config -> [_Toml Code_](https://github.com/Salc-wm/Dev-Toolkit-windows/blob/main/rio/config.toml)
   	```toml
   confirm-before-quit = false
   hide-cursor-when-typing = true
@@ -105,7 +105,7 @@ made in rust, it brings great performance to accompany Vim/Nvim
 
   [platform]
   windows.shell.program = "pwsh"
-  windows.shell.args = ["-l", "-NoLogo"]```
+  windows.shell.args = ["-l", "-NoLogo"]
 
 <p align="center"><h1 align="center">Discord</h1></p>
 
