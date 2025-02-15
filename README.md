@@ -22,16 +22,47 @@ That make it easier to modify the default appearance of\
 
 # Terminal
 
-- → [Git](https://git-scm.com/downloads)
-- → [**`Oh My Posh`**](https://ohmyposh.dev/)
-- → [**`Powershell Core`**](https://github.com/PowerShell/PowerShell)
-	- : Setup File
-	- : Config File
+- → [`Git`](https://git-scm.com/downloads)
+
+→ [**Uv**](https://docs.astral.sh/uv/getting-started/installation/)
+> ```Bash
+> powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+→ [**fzf**](https://github.com/fuzzy-finder/fzf)
+> ```bash
+> winget install fzf
+
+→ [**Curl**](https://curl.se/download.html)
+> ```bash
+> winget install cURL.cURL
+
+→ [**Zoxide**](https://github.com/ajeetdsouza/zoxide)
+> ```bash
+> winget install ajeetdsouza.zoxide
+
+→ [**Oh My Posh**](https://ohmyposh.dev/)
+	- Theme: emodipt-extend
+> ```bash
+> winget install JanDeDobbeleer.OhMyPosh -s winget
+
+→ [**Posting CLI**](https://posting.sh/guide/)
+> ```bash
+> # install Posting (will also quickly install Python 3.12 if needed)
+> uv tool install --python 3.12 posting
+> 
+> # install Posting (will also quickly install Python 3.13 if needed)
+> uv tool install --python 3.13 posting --prerelease=allow
+
+- → [**Powershell Core**](https://github.com/PowerShell/PowerShell)
+	- : [Setup File | - : Config File](https://github.com/Salc-wm/Powershell-WindowsProfile)
 
 <p align="center"><h1 align="center">Editores</h1></p>
 
 ## **Vim | Nvim**
-Distro Vim → [**mini.nvim**](https://github.com/echasnovski/mini.nvim)
+- Lazy
+	Distro Vim\
+	 → [**mini.nvim**](https://github.com/echasnovski/mini.nvim)\
+  	 → [**Nightfox**](https://github.com/EdenEast/nightfox.nvim) -< `Theme=Carbonfox`
 
 ## **Wez's**
 "WezTerm is a powerful cross-platform terminal emulator and multiplexer"\
