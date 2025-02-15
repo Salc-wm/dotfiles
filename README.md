@@ -199,10 +199,10 @@ made in rust, it brings great performance to accompany Vim/Nvim
 
 ### *Tweaks for YouTube*
 
-1. Original Themes
-    - [By LawOff](https://github.com/LawOff/YouTubeFluent)
-    - [By RikisuT](https://github.com/RikisuT/Youtube-Fluent-Theme)
-    - [By jean0t](https://github.com/jean0t/customize-youtube)
+1. __Original Themes__: By
+    - [LawOff](https://github.com/LawOff/YouTubeFluent)
+    - [RikisuT](https://github.com/RikisuT/Youtube-Fluent-Theme)
+    - [jean0t](https://github.com/jean0t/customize-youtube)
 
 - **Customs** →
     - CSS →> File Code
