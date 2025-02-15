@@ -11,9 +11,13 @@ That make it easier to modify the default appearance of\
 *Windows 11/10* and can improve quality or performance
 
 - → Notepads app
+	- _A clean and up-to-date notepad for windows_
 - → [`Windhawk`](https://windhawk.net/)
+	- _An essential windows customizer for many occasions_
 - → [`rectify11`](https://rectify11.net/home)
+	- _"ultimate Windows 11 customization tool" A good way to clean Windows, and leave it clean and truly usable_
 - → [`Start11`](https://www.stardock.com/products/start11/)
+	- _An amazing menu replacement platform_
 
 
 # Terminal
