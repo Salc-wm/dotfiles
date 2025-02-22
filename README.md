@@ -26,6 +26,7 @@ That make it easier to modify the default appearance of\
 	    - Windows 11 Taskbar Styler
 
 - → [**`Komorebi`**](https://github.com/LGUG2Z/komorebi)
+	- _A sensational tiling window manager for Windows_
 	- Settings →: JSON
  
 *komorebi*
