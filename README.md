@@ -27,7 +27,7 @@ That make it easier to modify the default appearance of\
 
 - → [**`Komorebi`**](https://github.com/LGUG2Z/komorebi)
 	- _A sensational tiling window manager for Windows_
-	- Settings →: JSON
+	- Settings →: [**JSON FULL FILES**](https://github.com/Salc-wm/--komorebi.Config)
  
 *komorebi*
 ```json
