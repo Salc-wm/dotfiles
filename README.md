@@ -103,6 +103,20 @@ That make it easier to modify the default appearance of\
 - → [**Powershell Core**](https://github.com/PowerShell/PowerShell)
 	- : [Setup File | - : Config File](https://github.com/Salc-wm/Powershell-WindowsProfile)
 
+→ [**Yazi**](https://yazi-rs.github.io/)
+	- _Fast terminal file manager written in Rust_
+
+- ### Windows
+Yazi relies on file(1) to detect the mime-type of the file, and the easiest and most reliable way to get it on Windows is to install Git for Windows and use the file.exe that comes with it.
+```txt
+    Install Git for Windows by running the official installer, or through your package manager of choice.
+    To allow Yazi to use file(1), add <Git_Installed_Directory>\usr\bin\file.exe to your YAZI_FILE_ONE environment variable, which differs depending on how you installed Git:
+        If you installed Git with the installer, it would be C:\Program Files\Git\usr\bin\file.exe.
+        If you installed Git with Scoop, it would be C:\Users\<Username>\scoop\apps\git\current\usr\bin\file.exe.
+    Restart your terminal.
+```
+
+
 <p align="center"><h1 align="center">Editores</h1></p>
 
 ## **Vim | Nvim**
