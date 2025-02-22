@@ -12,13 +12,59 @@ That make it easier to modify the default appearance of\
 
 - → Notepads app
 	- _A clean and up-to-date notepad for windows_
-- → [`Windhawk`](https://windhawk.net/)
-	- _An essential windows customizer for many occasions_
 - → [`rectify11`](https://rectify11.net/home)
 	- _"ultimate Windows 11 customization tool" A good way to clean Windows, and leave it clean and truly usable_
 - → [`Start11`](https://www.stardock.com/products/start11/)
 	- _An amazing menu replacement platform_
 
+- → [**`Windhawk`**](https://windhawk.net/)
+	- _An essential windows customizer for many occasions_
+ 	- Mods:
+  	    - Better file sizes in Explorer details
+	    - Taskbar Clock Customization
+	    - Windows 11 Start Menu Styler
+	    - Windows 11 Taskbar Styler
+
+- → [**`Komorebi`**](https://github.com/LGUG2Z/komorebi)
+	- Settings →: JSON
+ 
+*komorebi*
+```json
+  "theme": {
+    "palette": "Catppuccin",
+    "name": "Mocha",
+    "unfocused_border": "Crust",
+    "bar_accent": "Blue"
+  },
+```
+
+*komorebi.bar*
+```json
+  "monitor": {
+    "index": 0,
+    "work_area_offset": {
+      "left": -15,
+      "top": 8,
+      "right": -30,
+      "bottom": -5
+    }
+  },
+  "theme": {
+    "palette": "Catppuccin",
+    "name": "Mocha",
+    "accent": "Crust"
+  },
+  "viewport": {
+    "inner_size": {
+      // You size monitor
+      "x": 1920, 
+
+      // 20 is the default value for the height; if you want to increase the height you can try
+      // doubling the y value as a starting point and then iterating from there
+      "y": 23,
+    }
+  },
+```
 
 # Terminal
 
