@@ -101,7 +101,12 @@ That make it easier to modify the default appearance of\
 > uv tool install --python 3.13 posting --prerelease=allow
 
 - → [**Powershell Core**](https://github.com/PowerShell/PowerShell)
-	- : [Setup File | - : Config File](https://github.com/Salc-wm/Powershell-WindowsProfile)
+	- : [_Setup File_ **| - :** _Config File_](https://github.com/Salc-wm/Powershell-WindowsProfile)
+
+- → [**Kanata**](https://github.com/jtroo/kanata?tab=readme-ov-file)
+	- _Cross-platform software keyboard remapper for Linux, macOS and Windows_
+ 	- - **Main** configurates here -> [**MODS KEYSWORDS**](https://github.com/dreamsofcode-io/home-row-mods)
+    - _To facilitate faster coding, as well as maintaining hand health_
 
 → [**Yazi**](https://yazi-rs.github.io/)
 	- _Fast terminal file manager written in Rust_
