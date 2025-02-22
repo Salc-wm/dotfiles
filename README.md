@@ -130,6 +130,7 @@ A very useful and automatically modifiable terminal, along with its ease and cap
 | Markdown All in One       | Material Theme Icons |
 | Prettier - Code formatter | Code Runner          |
 | Subtle Match Brackets     | TODO Highlight       |
+| Custom CSS and JS Loader  | Custom UI Style      |
 
 - → *Custom CSS and JS Loader:*
 	- CSS → File Code
