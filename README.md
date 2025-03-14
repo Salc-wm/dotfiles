@@ -156,12 +156,12 @@ Yazi relies on file(1) to detect the mime-type of the file, and the easiest and 
 <p align="center"><h1 align="center">Editores</h1></p>
 
 ## **Vim | Nvim**
-- Lazy
+- [Lazy](https://lazy.folke.io/)
 	Distro Vim\
 	 → [**mini.nvim**](https://github.com/echasnovski/mini.nvim)\
   	 → [**Nightfox**](https://github.com/EdenEast/nightfox.nvim) -< `Theme=Carbonfox`
 
-## **Wez's**
+## [**Wez's**](https://wezterm.org/)
 "WezTerm is a powerful cross-platform terminal emulator and multiplexer"\
 A very useful and automatically modifiable terminal, along with its ease and capability of configuration thanks to its Lua API
 
@@ -172,7 +172,7 @@ A very useful and automatically modifiable terminal, along with its ease and cap
 - Rename the wezterm file to __.wezterm__ or add it to your own
 - located at _($HOME/.wezterm.lua)_ or _(Users\ \<USER NAME>)_
 
-## **VS-Code**
+## [**VS-Code**](https://code.visualstudio.com/download)
 | …                         | Extensões            |
 | ------------------------- | -------------------- |
 | ESLint                    | Stylelint            |
@@ -186,7 +186,7 @@ A very useful and automatically modifiable terminal, along with its ease and cap
 	- CSS → File Code
 	- JS  → File Code
 
-## **Rio**
+## [**Rio**](https://rioterm.com/)
 Rio is a Brazilian terminal, simple and fast, in addition to an easy configuration,\
 made in rust, it brings great performance to accompany Vim/Nvim
 
