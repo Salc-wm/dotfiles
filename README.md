@@ -12,8 +12,16 @@ That make it easier to modify the default appearance of\
 
 - → Notepads app
 	- _A clean and up-to-date notepad for windows_
-- → [`rectify11`](https://rectify11.net/home)
+
+> [!IMPORTANT]  
+> If you are using any different Windows/Modified assignment, be careful when using Rectify11 and AtlasOS, which can break the system, so make restore points before installing them.
+> preferably for the original version of Windows to avoid problems if you want to use them...
+
+- → [`AtlasOS`](https://atlasos.net/)
+	- _"A modification of Windows, designed for enthusiasts" It's time for a new Windows experience. Designed for enthusiasts and gamers, Atlas improves privacy, usability, and performance_
+- → [`Rectify11`](https://rectify11.net/home)
 	- _"ultimate Windows 11 customization tool" A good way to clean Windows, and leave it clean and truly usable_
+
 - → [`Start11`](https://www.stardock.com/products/start11/)
 	- _An amazing menu replacement platform_
 
@@ -28,7 +36,7 @@ That make it easier to modify the default appearance of\
 - → [**`Komorebi`**](https://github.com/LGUG2Z/komorebi)
 	- _A sensational tiling window manager for Windows_
 	- Settings →: [**JSON FULL FILES**](https://github.com/Salc-wm/--komorebi.Config)
- 
+
 *komorebi*
 ```json
   "theme": {
@@ -66,6 +74,29 @@ That make it easier to modify the default appearance of\
     }
   },
 ```
+
+
+## OS - Windows 10/11
+For those who know what they are doing, and know how to navigate the web, or just buy and use legal products\
+Windows systems that bring high performance and low latency, varying in what each one performs best.
+
+> [!WARNING]  
+> Be careful when using these systems, if you don't know what you are doing or have no knowledge, avoid it, so as not to have problems or big losses.
+
+- [**FoxOS**](https://discord.com/invite/4Gg8n6WhPN)
+	- _A very lightweight system, with a strong focus on low latency, without losing out in terms of performance to other modifications_
+
+- [**SapphireOS**](https://x.com/sapphire0s)
+	- _With a very low number of processes, with the best latency time between modifications but it remains average to high in terms of gaming performance_
+
+- **FSOS**
+	-  _One of the best for general use, doing everything very well, low latency, high fps, not the best but very good, in addition to other incredible features_
+
+- [**Windows X Lite**](https://windowsxlite.com/)
+	- _For those who want something that doesn't change the standard version of Windows too much, and if you are concerned about security, this is a good option_
+
+- [**xOS 11**](https://discord.com/invite/XTYEjZNPgX)
+	- _They say this is one of the best modifications for games, it performs very well in all aspects, bringing good fps and low latency_
 
 # Terminal
 
