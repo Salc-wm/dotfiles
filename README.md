@@ -98,7 +98,8 @@ Windows systems that bring high performance and low latency, varying in what eac
 - [**xOS 11**](https://discord.com/invite/XTYEjZNPgX)
 	- _They say this is one of the best modifications for games, it performs very well in all aspects, bringing good fps and low latency_
 
-# Terminal
+
+# [![My Skills](https://skillicons.dev/icons?i=devto&theme=dark)](https://skillicons.dev) Terminal
 
 - → [`Git`](https://git-scm.com/downloads)
 
@@ -153,9 +154,9 @@ Yazi relies on file(1) to detect the mime-type of the file, and the easiest and 
 ```
 
 
-<p align="center"><h1 align="center">Editores</h1></p>
+<p align="center"><h1 align="center">Editors</h1></p>
 
-## **Vim | Nvim**
+## [![My Skills](https://skillicons.dev/icons?i=neovim&theme=light)](https://skillicons.dev) **Vim | Nvim**
 - [Lazy](https://lazy.folke.io/)
 	Distro Vim\
 	 → [**mini.nvim**](https://github.com/echasnovski/mini.nvim)\
@@ -172,7 +173,7 @@ A very useful and automatically modifiable terminal, along with its ease and cap
 - Rename the wezterm file to __.wezterm__ or add it to your own
 - located at _($HOME/.wezterm.lua)_ or _(Users\ \<USER NAME>)_
 
-## [**VS-Code**](https://code.visualstudio.com/download)
+## [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev) [**VS-Code**](https://code.visualstudio.com/download)
 | …                         | Extensões            |
 | ------------------------- | -------------------- |
 | ESLint                    | Stylelint            |
@@ -252,7 +253,7 @@ made in rust, it brings great performance to accompany Vim/Nvim
   windows.shell.program = "pwsh"
   windows.shell.args = ["-l", "-NoLogo"]
 
-<p align="center"><h1 align="center">Discord</h1></p>
+<p align="center"> <h1 align="center">Discord</h1> </p>
 
 ### **[Vencord](https://vencord.dev/)**
 
@@ -273,20 +274,32 @@ made in rust, it brings great performance to accompany Vim/Nvim
 - → [SettingsModal](https://betterdiscord.app/theme/SettingsModal)
 
 
-## *Steam*
+<p align="center"><h1 align="center">Steam</h1></p>
+
 ### **[Millennium](https://steambrew.app/themes)**
 
 - **USE**:→
 	- Theme → [Minimal Dark](https://steambrew.app/theme?id=F4XgbtTW4x5CJmi5DUK3)
 	- Plugin  → [SteamDB](https://steambrew.app/plugin?id=c36d5f67c99f)
 
-## Obsidian
+[![My Skills](https://skillicons.dev/icons?i=steam&theme=light)](https://skillicons.dev)
+
+<p align="center"><h1 align="center">Apps Notes</h1></p>
+
+## [![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://skillicons.dev) Notion
+All-in-one productivity tool that combines note-taking, task management, wikis, databases, and collaboration features into a single workspace.
+
+## [![My Skills](https://skillicons.dev/icons?i=obsidian&theme=light)](https://skillicons.dev) Obsidian
+Markdown-based note-taking app that stands out for its "second brain" approach and ability to connect information.
 
 | **Plugins**     |                 |
 | --------------- | --------------- |
 | Iconize         | Excalidraw      |
 | Style Settings  | Text Format     |
 | Advanced Slides | Smart Typograph |
+
+## [![My Skills](https://skillicons.dev/icons?i=linear&theme=light)](https://skillicons.dev) Linear
+Modern project management and issue tracking tool designed specifically for software and product development teams.
 
 <p align="center"><h1 align="center">Youtube</h1></p>
 
