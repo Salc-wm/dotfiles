@@ -4,7 +4,7 @@
 </p>
 
 
-# Windows 11
+# [![My Skills](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev) Windows 11
 Essential programs to improve the _appearance_ and usability of Windows
 
 That make it easier to modify the default appearance of\
