@@ -103,6 +103,9 @@ Windows systems that bring high performance and low latency, varying in what eac
 
 - → [`Git`](https://git-scm.com/downloads)
 
+Use your favorite management software to install the below software like\
+_[Chocolatey](https://community.chocolatey.org/packages), [Scoop](https://scoop.sh/), etc_
+
 → [**Uv**](https://docs.astral.sh/uv/getting-started/installation/)
 > ```Bash
 > powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
