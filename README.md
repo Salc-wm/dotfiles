@@ -312,12 +312,9 @@ Modern project management and issue tracking tool designed specifically for soft
 - → Screenshot YouTube
 
 ### *Tweaks for YouTube*
+Choose or use as a base to create your own theme to customize the YouTube theme and make it as pleasant and modern as possible.
 
 1. __Original Themes__: By
     - [LawOff](https://github.com/LawOff/YouTubeFluent)
     - [RikisuT](https://github.com/RikisuT/Youtube-Fluent-Theme)
     - [jean0t](https://github.com/jean0t/customize-youtube)
-
-- **Customs** →
-    - CSS →> File Code
-    - JS →> FIle Code
