@@ -1,7 +1,7 @@
 local wezterm = require('wezterm')
 
-local _funcs  = require('scpts_wezterm.foo')
-local _colors = require('wezterm.colors')
+local _funcs  = require('foo')
+local _colors = require('colors')
 
 -- * IMP!
 local act, mux = wezterm.action,
@@ -12,7 +12,9 @@ local config = {} if wezterm.config_builder then
 end
 
 -- * CONFIG!
-config.default_cwd  = 'C:/Users/Admin/__'
+local PC = "//Blanca//"
+
+config.default_cwd  = "C://Users//".. PC .."Documents//__"
 config.default_prog = {'pwsh', '-l', "-NoLogo"}
 
 config.front_end = "OpenGL"
@@ -143,7 +145,7 @@ wezterm.on('format-tab-title', function(tab, tabs, panes, config, hover, max_wid
     end
 
     local edge_foreground = backgroundState
-    local title = _Tab_title._Tab_title(tab)
+    local title = _funcs._tab_title(tab)
 
     -- Ensure that the titles fit in the available space,
     title = wezterm.truncate_right(title, max_width - 5)  -- and that we have room for the edges.
@@ -186,8 +188,8 @@ wezterm.on('update-status', function(window, pane)
     local cwd = pane:get_current_working_dir()
     local cmd = pane:get_foreground_process_name()
 
-    cwd = cwd and _funcs._Basename(cwd) or ''
-    cmd = cmd and _funcs._Basename(cmd):match('(.*)%.(.*)') or ''  -- Current command
+    cwd = cwd and _funcs._basename(tostring(cwd)) or ''
+    cmd = cmd and _funcs._basename(cmd):match('(.*)%.(.*)') or ''  -- Current command
 
     -- Time
     local time = wezterm.strftime('%H:%M')
