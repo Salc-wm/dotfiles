@@ -1,9 +1,9 @@
 return {
-    _Basename = function(s)
+    _basename = function(s)
         return string.gsub(s, '(.*[/\\])(.*)', '%2')
     end,
 
-    _Tab_title = function(tab_info)
+    _tab_title = function(tab_info)
         local title = tab_info.tab_title
 
         -- if the tab title is explicitly set, take that
