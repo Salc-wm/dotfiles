@@ -5,22 +5,53 @@
 
 
 # [![My Skills](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev) Windows 11
-Essential programs to improve the _appearance_ and usability of Windows
 
-That make it easier to modify the default appearance of\
-*Windows 11/10* and can improve quality or performance
+<p align="center">
+	Essential programs to improve the appearance and usability of Windows
+	<br>
+	That make it easier to modify the default appearance of Windows 11/10 and can improve quality or performance
+</p>
 
-- → Notepads app
-	- _A clean and up-to-date notepad for windows_
+## Sub ISO - Windows 10/11
+For those who know what they are doing, and know how to navigate the web, or just buy and use legal products\
+Windows systems that bring high performance and low latency, varying in what each one performs best.
+
+> [!WARNING]  
+> Be careful when using these systems, if you don't know what you are doing or have no knowledge, avoid it, so as not to have problems or big losses.
+> Most ISOs are only available on discord servers.
+
+- [**FoxOS**](https://discord.com/invite/4Gg8n6WhPN)
+	- _A very lightweight system, with a strong focus on low latency, without losing out in terms of performance to other modifications_
+
+- [**SapphireOS**](https://x.com/sapphire0s)
+	- _With a very low number of processes, with the best latency time between modifications but it remains average to high in terms of gaming performance_
+
+- [**FSOS**](https://discord.com/invite/fsl)
+	- _One of the best for general use, doing everything very well, low latency, high FPS, one of the best for low use of RAM, as well as other amazing features_
+
+- [**Windows X Lite**](https://windowsxlite.com/)
+	- _For those who want something that doesn't change the standard version of Windows too much, and if you are concerned about security, this is a good option_
+
+- [**xOS 11**](https://discord.com/invite/XTYEjZNPgX)
+	- _They say this is one of the best modifications for games, it performs very well in all aspects, bringing good fps and low latency_
+
+### Alternative | Original windows ISO
+AtlasOS, modifies Windows directly without having to reinstall a new ISO, perhaps just updating Windows or changing to the version they recommend, without depending on a modified ISO.
+
+> [!WARNING]  
+> And any heavily modified Windows ISO, if you try to install AtlasOS it will corrupt the system.
+> Be careful if you try...
+
+- → [`AtlasOS`](https://atlasos.net/)
+	- _"A modification of Windows, designed for enthusiasts" It's time for a new Windows experience. Designed for enthusiasts and gamers, Atlas improves privacy, usability, and performance_
+
+## Debloat / Tweaks | Customizations....
+- → [`Rectify11`](https://rectify11.net/home)
+	- _"ultimate Windows 11 customization tool" A good way to clean Windows, and leave it clean and truly usable_
 
 > [!IMPORTANT]  
 > If you are using any different Windows/Modified assignment, be careful when using Rectify11 and AtlasOS, which can break the system, so make restore points before installing them.
 > preferably for the original version of Windows to avoid problems if you want to use them...
-
-- → [`AtlasOS`](https://atlasos.net/)
-	- _"A modification of Windows, designed for enthusiasts" It's time for a new Windows experience. Designed for enthusiasts and gamers, Atlas improves privacy, usability, and performance_
-- → [`Rectify11`](https://rectify11.net/home)
-	- _"ultimate Windows 11 customization tool" A good way to clean Windows, and leave it clean and truly usable_
 
 - → [`Start11`](https://www.stardock.com/products/start11/)
 	- _An amazing menu replacement platform_
@@ -32,10 +63,10 @@ That make it easier to modify the default appearance of\
 	    - Taskbar Clock Customization
 	    - Windows 11 Start Menu Styler
 	    - Windows 11 Taskbar Styler
-
-- → [**`Komorebi`**](https://github.com/LGUG2Z/komorebi)
-	- _A sensational tiling window manager for Windows_
-	- Settings →: [**JSON FULL FILES**](https://github.com/Salc-wm/--komorebi.Config)
+ 
+### [**`Komorebi`**](https://github.com/LGUG2Z/komorebi)
+   - _A sensational tiling window manager for Windows_
+   - Settings →: [**JSON FULL FILES**](https://github.com/Salc-wm/--komorebi.Config)
 
 *komorebi*
 ```json
@@ -75,31 +106,11 @@ That make it easier to modify the default appearance of\
   },
 ```
 
+<br>
 
-## OS - Windows 10/11
-For those who know what they are doing, and know how to navigate the web, or just buy and use legal products\
-Windows systems that bring high performance and low latency, varying in what each one performs best.
-
-> [!WARNING]  
-> Be careful when using these systems, if you don't know what you are doing or have no knowledge, avoid it, so as not to have problems or big losses.
-
-- [**FoxOS**](https://discord.com/invite/4Gg8n6WhPN)
-	- _A very lightweight system, with a strong focus on low latency, without losing out in terms of performance to other modifications_
-
-- [**SapphireOS**](https://x.com/sapphire0s)
-	- _With a very low number of processes, with the best latency time between modifications but it remains average to high in terms of gaming performance_
-
-- **FSOS**
-	-  _One of the best for general use, doing everything very well, low latency, high fps, not the best but very good, in addition to other incredible features_
-
-- [**Windows X Lite**](https://windowsxlite.com/)
-	- _For those who want something that doesn't change the standard version of Windows too much, and if you are concerned about security, this is a good option_
-
-- [**xOS 11**](https://discord.com/invite/XTYEjZNPgX)
-	- _They say this is one of the best modifications for games, it performs very well in all aspects, bringing good fps and low latency_
-
-
-# [![My Skills](https://skillicons.dev/icons?i=devto&theme=dark)](https://skillicons.dev) Terminal
+<h1 align="center">
+    Terminal essentials!!
+</h1>
 
 - → [`Git`](https://git-scm.com/downloads)
 
@@ -135,9 +146,6 @@ _[Chocolatey](https://community.chocolatey.org/packages), [Scoop](https://scoop.
 > # install Posting (will also quickly install Python 3.13 if needed)
 > uv tool install --python 3.13 posting --prerelease=allow
 
-- → [**Powershell Core**](https://github.com/PowerShell/PowerShell)
-	- : [_Setup File_ **| - :** _Config File_](https://github.com/Salc-wm/Powershell-WindowsProfile)
-
 - → [**Kanata**](https://github.com/jtroo/kanata?tab=readme-ov-file)
 	- _Cross-platform software keyboard remapper for Linux, macOS and Windows_
  	- - **Main** configurates here -> [**MODS KEYSWORDS**](https://github.com/dreamsofcode-io/home-row-mods)
@@ -146,37 +154,71 @@ _[Chocolatey](https://community.chocolatey.org/packages), [Scoop](https://scoop.
 → [**Yazi**](https://yazi-rs.github.io/)
 	- _Fast terminal file manager written in Rust_
 
-- ### Windows
+>```bash
+> scoop install yazi
+>```
+
+>```bash
+> winget install sxyazi.yazi
+>```
+
+Install the optional dependencies (recommended)
+>```bash
+> winget install Gyan.FFmpeg 7zip.7zip jqlang.jq sharkdp.fd BurntSushi.ripgrep.MSVC junegunn.fzf ajeetdsouza.zoxide ImageMagick.ImageMagick
+>```
+>```bash
+> scoop install ffmpeg 7zip jq poppler fd ripgrep fzf zoxide resvg imagemagick
+>```
+
 Yazi relies on file(1) to detect the mime-type of the file, and the easiest and most reliable way to get it on Windows is to install Git for Windows and use the file.exe that comes with it.
 ```txt
     Install Git for Windows by running the official installer, or through your package manager of choice.
+
     To allow Yazi to use file(1), add <Git_Installed_Directory>\usr\bin\file.exe to your YAZI_FILE_ONE environment variable, which differs depending on how you installed Git:
         If you installed Git with the installer, it would be C:\Program Files\Git\usr\bin\file.exe.
         If you installed Git with Scoop, it would be C:\Users\<Username>\scoop\apps\git\current\usr\bin\file.exe.
     Restart your terminal.
 ```
 
+<br>
+
+### Powershell configs...
+Should normally be placed in the "PowerShell" folder in documents.
+- → [**Powershell Core**](https://github.com/PowerShell/PowerShell)
+	- : [_Setup File_](https://github.com/Salc-wm/Powershell-WindowsProfile/blob/main/setprofile.ps1)
+ 	- : [_Config File_](https://github.com/Salc-wm/Powershell-WindowsProfile/blob/main/Microsoft.PowerShell_profile.ps1)
+
+Original config by __ChrisTitusTech__.
+- [Core scripts](https://github.com/ChrisTitusTech/powershell-profile)
+
+### [Nushell](https://www.nushell.sh/) configs...
+For those who don't want to use powershell, or are just interested in something new, we have nushell, a new reference with great new features.
+With multiple really interesting functions
+
+```bash
+# For initialization | or just set it directly in your editor of choice, etc...
+> nu
+```
+
+Configuration examples for nushell ->
+ - https://github.com/drbrain/nushell-config
+ - https://github.com/dandavison/nushell-config
+ - https://randomgeekery.org/config/shell/nushell/
+
 
 <p align="center"><h1 align="center">Editors</h1></p>
 
-## [![My Skills](https://skillicons.dev/icons?i=neovim&theme=light)](https://skillicons.dev) **Vim | Nvim**
+### [![My Skills](https://skillicons.dev/icons?i=neovim&theme=light)](https://skillicons.dev) **Vim | Nvim**
+A classic, very useful for true developers who use different languages ​​and master their keyboards.
+
 - [Lazy](https://lazy.folke.io/)
 	Distro Vim\
 	 → [**mini.nvim**](https://github.com/echasnovski/mini.nvim)\
   	 → [**Nightfox**](https://github.com/EdenEast/nightfox.nvim) -< `Theme=Carbonfox`
 
-## [**Wez's**](https://wezterm.org/)
-"WezTerm is a powerful cross-platform terminal emulator and multiplexer"\
-A very useful and automatically modifiable terminal, along with its ease and capability of configuration thanks to its Lua API
-
-> [!IMPORTANT]  
-> The _wezterm_ folder needs to go in the *.config* folder.
-→ Config [**file Code**](https://github.com/Salc-wm/Dev-Toolkit-windows/blob/main/wezterm/wezterm.lua)
-
-- Rename the wezterm file to __.wezterm__ or add it to your own
-- located at _($HOME/.wezterm.lua)_ or _(Users\ \<USER NAME>)_
-
 ## [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev) [**VS-Code**](https://code.visualstudio.com/download)
+A very comprehensive code editor widely used by __coding vibe__, newbies and big front-end developers.
+
 | …                         | Extensões            |
 | ------------------------- | -------------------- |
 | ESLint                    | Stylelint            |
@@ -189,6 +231,27 @@ A very useful and automatically modifiable terminal, along with its ease and cap
 - → *Custom CSS and JS Loader:*
 	- CSS → File Code
 	- JS  → File Code
+
+## [VSCodium](https://vscodium.com/)
+An alternative for those who care about what your data are shared, or simply n want no company by collecting nothing...
+VScodium is a great alternative to standard VSCode without telemetries and even in some cases more stabiliade
+
+> [!IMPORTANT]  
+> Because it is a modified distribution, certain extensions may not work as desired, and have some or other extensions not available
+
+
+<p align="center"><h1 align="center">Terminal Emulators</h1></p>
+
+### [**Wez's**](https://wezterm.org/)
+"WezTerm is a powerful cross-platform terminal emulator and multiplexer"\
+A very useful and automatically modifiable terminal, along with its ease and capability of configuration thanks to its Lua API
+
+> [!IMPORTANT]  
+> The _wezterm_ folder needs to go in the *.config* folder.
+→ Config [**file Code**](https://github.com/Salc-wm/Dev-Toolkit-windows/blob/main/wezterm/wezterm.lua)
+
+- Rename the wezterm file to __.wezterm__ or add it to your own
+- located at _($HOME/.wezterm.lua)_ or _(Users\ \<USER NAME>)_
 
 ## [**Rio**](https://rioterm.com/)
 Rio is a Brazilian terminal, simple and fast, in addition to an easy configuration,\
