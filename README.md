@@ -64,6 +64,15 @@ AtlasOS, modifies Windows directly without having to reinstall a new ISO, perhap
 	    - Windows 11 Start Menu Styler
 	    - Windows 11 Taskbar Styler
 
+### [**`Talon`**](https://debloat.win/)
+   - Windows is bloated, packed full of telemetry, and now even has advertisements in your notifications_
+   - Talon lets you unbloat your freshly installed Windows 11 system in two clicks
+
+Always remember to make a recovery point, depending on your system, it can cause errors and crashes.
+
+> [!WARNING]  
+> If you are not able to access the site, your ISPs may be blocking it, try switching to get access...
+
 ### [**`Fluent Search`**](https://fluentsearch.net/)
    - _Experience blazing-fast search for files, apps, web content, and more._
    - A very good alternative to replace the default windows menu
