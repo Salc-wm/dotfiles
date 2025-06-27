@@ -63,7 +63,11 @@ AtlasOS, modifies Windows directly without having to reinstall a new ISO, perhap
 	    - Taskbar Clock Customization
 	    - Windows 11 Start Menu Styler
 	    - Windows 11 Taskbar Styler
- 
+
+### [**`Fluent Search`**](https://fluentsearch.net/)
+   - _Experience blazing-fast search for files, apps, web content, and more._
+   - A very good alternative to replace the default windows menu
+
 ### [**`Komorebi`**](https://github.com/LGUG2Z/komorebi)
    - _A sensational tiling window manager for Windows_
    - Settings →: [**JSON FULL FILES**](https://github.com/Salc-wm/--komorebi.Config)
