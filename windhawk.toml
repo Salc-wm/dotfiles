@@ -1,0 +1,28 @@
+[mods]
+installed = [
+  'Better file sizes in Explorer details',
+  'CEF/Spotify Tweaks',
+  'Dark mode context menus',
+  'Dark Mode for Notepad',
+  'Disable Immersive Context Menus',
+  'Disable Taskbar Thumbnails',
+  'Fix white flashes in explorer',
+  'Hide Network UNC Paths in Explorer',
+  'Logon, Logoff & Shutdown Sounds Restored',
+  'Modernize Folder Picker Dialog',
+  'Remove File Explorer Suffixes',
+  'Spoof Light/Dark Theme',
+  'Taskbar auto-hide speed',
+  'Taskbar Clock Customization',
+  'Taskbar height and icon size',
+  'Taskbar on top for Windows 11',
+  'Taskbar tray icon spacing and grid',
+  'Taskbar tray system icon tweaks',
+  'Timer Resolution Control',
+  'Translucent Windows',
+  'Turn off change file extension warning',
+  'UXTheme hook',
+  'Windows 11 Accent Window Border',
+  'Windows 11 File Explorer Styler',
+  'Windows 11 Taskbar Styler'
+]
