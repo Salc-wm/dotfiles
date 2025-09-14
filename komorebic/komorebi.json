@@ -1,0 +1,73 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.37/schema.json",
+
+  "window_hiding_behaviour": "Cloak",
+  "cross_monitor_move_behaviour": "Insert",
+
+  "default_workspace_padding": 1,
+  "default_container_padding": 2,
+
+  "border": true,
+  "border_width": 3,
+  "border_offset": -1,
+
+  "border_style": "Rounded",
+  "border_implementation": "Komorebi",
+  "border_colours": {
+    "single": "#89bdfa",
+    "stack":  "#00ff99",
+    "monocle":  "#00ff99",
+    "floating": "#f38ba9",
+    "unfocused": "#303030"
+  },
+
+  "animation": {
+    "enabled": true,
+    "duration": 180,
+    "fps": 165,
+    "style": {
+      "movement": "EaseInBack",
+      "transparency": "Linear"
+    }
+  },
+
+  "mouse_follows_focus": true,
+
+  "transparency": true,
+  "transparency_alpha": 220,
+
+  "theme": {
+    "palette": "Catppuccin",
+    "name": "Mocha",
+
+    "stackbar_focused_text": "Red",
+    "unfocused_border": "Crust",
+    "bar_accent": "Blue"
+  },
+
+  "stackbar": {
+    "height": 40,
+    "mode": "OnStack",
+    "tabs": {
+      "width": 300
+    }
+  },
+  "monitors": [
+    {
+      "workspaces": [
+        {
+          "name": "Home",
+          "layout": "VerticalStack"
+        },
+        {
+          "name": "...",
+          "layout": "BSP"
+        },
+        {
+          "name": "Dev",
+          "layout": "HorizontalStack"
+        }
+      ]
+    }
+  ]
+}
